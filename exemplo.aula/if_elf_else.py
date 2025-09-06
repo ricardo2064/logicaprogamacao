@@ -7,3 +7,7 @@ if idade <12:
     print("voce e uma criança e nao pode assistir a tv ate mais tarde a noite ")
 
 elif idade <18:
+    print("You're teenager")
+
+else:
+    print("Você é de maior idade")
